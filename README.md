@@ -33,6 +33,6 @@ Technologies Used
 HTML for structuring the webpage.
 CSS for basic styling
 
-![Basic Screenshot](relative/path/to/image.png)
+![Basic Screenshot](https://github.com/CosmicViraj/BMI_CALC/blob/main/Screenshot%202024-08-25%20212904.png)
 
-![Functioning Website](relative/path/to/image.png)
+![Functioning Website](https://github.com/CosmicViraj/BMI_CALC/blob/main/Screenshot%202024-08-25%20212932.png)
